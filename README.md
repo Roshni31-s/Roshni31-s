@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Roshni31-s
+- 👋 Hi, I’m Roshni.
 - 👀 I’m interested in programming,web development,AIML & Cybersecurity.
 - 🌱 I’m currently learning web development.
 - 📫 How to reach me roshniso1203@gmail.com.
