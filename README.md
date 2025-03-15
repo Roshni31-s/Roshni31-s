@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Roshni31-s
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning github.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me sorenroshni16@gmail.com.
+- 👀 I’m interested in programming,web development,AIML & Cybersecurity.
+- 🌱 I’m currently learning web development.
+- 📫 How to reach me roshniso1203@gmail.com.
 - 😄 Pronouns: Rose.
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
+  📖 Reader
+  ⛳ Explorer 
 
 <!---
 Roshni31-s/Roshni31-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
