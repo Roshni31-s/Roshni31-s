@@ -3,7 +3,7 @@
 <p align="center">
 💖 Engineering student • Backend enthusiast • Code crafter • Tech dreamer
 </p>
-
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 💻 Currently in my 2nd year of engineering, where I'm building beautiful logic behind the scenes 🌐  
 🔍 I love turning complex problems into elegant code—especially in authentication, backend flows, and database magic ✨  
 🛠️ Tools I adore: Python 🐍 • C 💡 • MySQL 📊 • Flask 🌸 • GitHub 🌍 • AI coding assistants 🤖  
